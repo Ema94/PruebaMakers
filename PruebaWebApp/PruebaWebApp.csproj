@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libreria.Core\Libreria.Core.csproj" />
+    <ProjectReference Include="..\Libreria.DataAccess\Libreria.DataAccess.csproj" />
+    <ProjectReference Include="..\Libreria.Db\Libreria.Db.csproj" />
+    <ProjectReference Include="..\Libreria.Services\Libreria.Services.csproj" />
+    <ProjectReference Include="..\Repository.Core.Component\Repository.Core.Component.csproj" />
+    <ProjectReference Include="..\Repository.EntityFramework.Component\Repository.EntityFramework.Component.csproj" />
+  </ItemGroup>
+
+
+</Project>

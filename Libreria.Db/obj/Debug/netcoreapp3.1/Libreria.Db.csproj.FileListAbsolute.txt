@@ -1,0 +1,17 @@
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Db.deps.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Db.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.AssemblyInfoInputs.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.AssemblyInfo.cs
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.csprojAssemblyReference.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Db.runtimeconfig.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Db.runtimeconfig.dev.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Db.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.csproj.CopyComplete
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\obj\Debug\netcoreapp3.1\Libreria.Db.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Repository.EntityFramework.Component.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Repository.EntityFramework.Component.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Db\bin\Debug\netcoreapp3.1\Repository.Core.Component.pdb

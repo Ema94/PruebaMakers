@@ -1,0 +1,11 @@
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.deps.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csprojAssemblyReference.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.AssemblyInfoInputs.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.AssemblyInfo.cs
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csproj.CopyComplete
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.pdb

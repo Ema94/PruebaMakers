@@ -1,0 +1,8 @@
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.deps.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.csprojAssemblyReference.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.AssemblyInfoInputs.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.AssemblyInfo.cs
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.pdb

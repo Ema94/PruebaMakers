@@ -1,0 +1,8 @@
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.deps.json
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.csprojAssemblyReference.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.AssemblyInfoInputs.cache
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.AssemblyInfo.cs
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.pdb
