@@ -14,8 +14,7 @@ namespace PruebaWebApp.Areas.Account.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
-    //Por cuestiones de tiempo no realizare la persistencia de usuarios, solo se podra logear con usuario estatico, disculpas...sinceramente el
-    //componente de repositorios dinamicos me quito mucho tiempo
+    //Por cuestiones de tiempo no realizare la persistencia de usuarios, solo se podra logear con usuario estatico, disculpas
     public class AccountController : ControllerBase
     {
         private readonly IConfiguration config;
