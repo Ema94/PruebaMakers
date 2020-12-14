@@ -1,0 +1,29 @@
+<div class="card">
+    <div class="card-header"><i class="fa fa-book"></i>Book({{action}})</div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <label for="title">Title</label> 
+                <input class="form-control" name="title" [(ngModel)]="book.title"/>
+            </div>
+            <div class="col-md-6">
+                <label for="author">Author</label>
+                <input class="form-control" name="author" [(ngModel)]="book.autor"/>
+            </div>
+        </div>
+        <div class="row">  
+            <div class="col-md-6">
+                <label for="spend">Spend</label>
+                 <input type="number" class="form-control" name="spend" [(ngModel)]="book.spend"/>
+            </div>
+            <div class="col-md-6">
+                <label for="sPrice">Sugested Price</label> 
+                <input type="number" class="form-control" name="sPrice" [(ngModel)]="book.sugestedPrice"/>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <div [routerLink]="['/books']" class="btn btn-default"><i class="fa fa-reply"></i></div>
+        <div (click)="addOrUpdate()" class="btn btn-primary">{{action}}</div>
+    </div>
+</div>

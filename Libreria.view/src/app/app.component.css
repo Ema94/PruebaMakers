@@ -1,0 +1,33 @@
+.container-layout{
+    height: 100%;
+}
+
+.menu-nav-container{
+    height: 100%;
+    padding: 0px;
+}
+
+.menu-nav {
+    height: 100%;
+}
+
+.nav-link{
+    color:white;
+    cursor: pointer;
+}
+
+.app-container{
+    height: 100%; 
+    overflow: auto;
+}
+@media only screen and (max-width: 600px) {
+    .menu-nav-container{
+        height: 10%;
+        padding: 0px;
+    }
+    
+    .menu-nav {
+        display: -webkit-box !important;
+        height: 100%;
+    }
+}

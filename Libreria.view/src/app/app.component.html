@@ -1,0 +1,21 @@
+<nav class="navbar navbar-light bg-primary">
+    <span class="navbar-brand mb-0 h1">BookStored</span>
+</nav>
+<div class="container-fluid container-layout">
+    <div class="row" style="height: 100%;">
+        <div class="col-md-2 menu-nav-container">
+            <ul class="nav flex-column bg-dark menu-nav">
+                <li class="nav-item">
+                    <a class="nav-link" routerLinkActive='active' [routerLink]="['/welcome']" ><i class="fa fa-home"></i>Home</a>
+                </li>
+                <li>
+                    <a class="nav-link" routerLinkActive='active' [routerLink]="['/books']" ><i class="fa fa-book"></i>Books</a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-md-10 app-container">
+            <br>
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</div>

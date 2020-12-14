@@ -1,0 +1,45 @@
+<div class="card card-primary">
+    <div class="card-header">
+            Filters
+      </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6" style="display: flex;"><label for="title">Title</label> <input  name="title" class="form-control" [(ngModel)]="title"/></div>
+            <div class="col-md-6" style="display: flex;"><label for="autor">Author</label> <input name="autor" class="form-control" [(ngModel)]="autor"/></div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-md-6" style="display: flex;"><label for="spend">Spend</label> &nbsp; <input type="number" name="spend" class="form-control" [(ngModel)]="spend"/></div>
+        </div>
+        <br/>
+        <div class="row float-right">
+            <button class="btn btn-primary" (click)='applyFilters()'><i class="fa fa-search"></i></button>
+        </div>
+    </div>
+  </div>
+  <br>
+    <button class="btn btn-primary" [routerLink]="['/books',0]"><i class="fa fa-plus"></i> Add book</button>
+  <br>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Author</th>
+            <th scope="col">Spend</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor='let book of books'>
+            <td>{{book.title}}</td>
+            <td>{{book.autor}}</td>
+            <td>{{book.spend}}</td>
+            <td>
+                <div class="row">
+                        <div class="col-md-2"><button [routerLink]="['/books',book.bookId]" class="btn btn-primary small"><i class="fa fa-edit "></i></button></div>
+                        <div class="col-md-1"><button (click)="removeBook(book.bookId)"class="btn btn-danger small"><i class="fa fa-trash"></i></button></div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>

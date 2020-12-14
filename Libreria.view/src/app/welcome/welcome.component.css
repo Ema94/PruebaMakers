@@ -1,0 +1,28 @@
+.welcome-title{
+    z-index: 1000;
+    position: absolute;
+    color: white;
+    font-size: 100px;
+}
+
+.welcome-img{
+    width: 98%;
+}
+
+@media only screen and (max-width: 600px) {
+    .welcome-title{
+        z-index: 1000;
+        position: absolute;
+        color: white;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .welcome-title{
+        z-index: 1000;
+        position: absolute;
+        color: white;
+        font-size: 60px;
+    }
+}
