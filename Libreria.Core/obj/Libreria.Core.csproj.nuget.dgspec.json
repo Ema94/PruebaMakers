@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj": {}
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj": {
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj",
         "projectName": "Libreria.Core",
-        "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj",
+        "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\obj\\",
+        "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace PruebaWebApp.Areas.BookArea.Controllers
 {
     [ApiController]
-    [Authorize]
+    //[Authorize]
     [Route("api/[controller]")]
     public class BookController : ControllerBase
     {
@@ -28,7 +28,6 @@ namespace PruebaWebApp.Areas.BookArea.Controllers
         {
             try
             {
-
                 var books = await bookCurdServices.FindByFilters(title, date, spend, autor, editorial);
                 //para este caso en un futuro lo refactorizaria y llamaria a una view porque la consulta en una app con muchos datos seria pesada
                 //y le agregaria una paginacion
@@ -50,7 +49,6 @@ namespace PruebaWebApp.Areas.BookArea.Controllers
         {
             try
             {
-
                 var book = await bookCurdServices.FindBooks(x=>x.BookId == id);
                 var response = BookGetResponseFactory.Ok();
                 response.Book = book;
@@ -67,10 +65,11 @@ namespace PruebaWebApp.Areas.BookArea.Controllers
         }
  
         [HttpPost]
-        public async Task<BaseApiResponse> Post(Book book)
+        public async Task<BaseApiResponse> Post([FromBody] Book book)
         {
             try
             {
+                book.Date = DateTime.Now;
                 book = await bookCurdServices.Add(book);
                 var response = BookManipulateResponsesFactory.Ok();
                 return response;
@@ -83,7 +82,7 @@ namespace PruebaWebApp.Areas.BookArea.Controllers
             }
         }
         [HttpPut]
-        public async Task<BaseApiResponse> Put(Book book)
+        public async Task<BaseApiResponse> Put([FromBody] Book book)
         {
             try
             {
@@ -99,11 +98,12 @@ namespace PruebaWebApp.Areas.BookArea.Controllers
             }
         }
         [HttpDelete]
-        public async Task<BaseApiResponse> Delete(Book book)
+        public async Task<BaseApiResponse> Delete(int bookId)
         {
             try
             {
-                book = await bookCurdServices.Update(book);
+                var book = await bookCurdServices.FindBooks(x => x.BookId == bookId);
+                book = await bookCurdServices.Delete(book);
                 var response = BookManipulateResponsesFactory.Ok();
                 return response;
             }

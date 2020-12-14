@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Db\\Libreria.Db.csproj": {}
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Db\\Libreria.Db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj": {
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj",
         "projectName": "Libreria.Core",
-        "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj",
+        "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\obj\\",
+        "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,22 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Db\\Libreria.Db.csproj": {
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Db\\Libreria.Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Db\\Libreria.Db.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Db\\Libreria.Db.csproj",
         "projectName": "Libreria.Db",
-        "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Db\\Libreria.Db.csproj",
+        "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Db\\Libreria.Db.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Db\\obj\\",
+        "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,12 +88,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj": {
-                "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj"
+              "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj": {
+                "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj"
               },
-              "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj": {
-                "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj"
+              "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj": {
+                "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj"
               }
             }
           }
@@ -106,6 +107,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -133,22 +135,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\Repository.Core.Component.csproj": {
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\Repository.Core.Component.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\Repository.Core.Component.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\Repository.Core.Component.csproj",
         "projectName": "Repository.Core.Component",
-        "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\Repository.Core.Component.csproj",
+        "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\Repository.Core.Component.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\obj\\",
+        "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,6 +165,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -175,6 +177,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -190,22 +193,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj": {
+    "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj",
         "projectName": "Repository.EntityFramework.Component",
-        "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj",
+        "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\Repository.EntityFramework.Component.csproj",
         "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.EntityFramework.Component\\obj\\",
+        "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.EntityFramework.Component\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,9 +223,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\Repository.Core.Component.csproj": {
-                "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Repository.Core.Component\\Repository.Core.Component.csproj"
+              "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\Repository.Core.Component.csproj": {
+                "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Repository.Core.Component\\Repository.Core.Component.csproj"
               }
             }
           }
@@ -236,6 +239,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -257,7 +261,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

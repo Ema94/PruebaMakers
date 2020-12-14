@@ -17,6 +17,7 @@ namespace Libreria.Core.Entities
         public decimal SugestedPrice{get;set;}
 
         public string Autor{get;set;}
+
         public int EditorialId { get; set; }
         public Editorial Editorial{get;set;}
     }

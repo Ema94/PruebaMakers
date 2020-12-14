@@ -28,21 +28,19 @@
   },
   "packageFolders": {
     "C:\\Users\\emanu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Services\\Libreria.Services.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Services\\Libreria.Services.csproj",
       "projectName": "Libreria.Services",
-      "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Services\\Libreria.Services.csproj",
+      "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Services\\Libreria.Services.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Services\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,9 +56,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj": {
-              "projectPath": "C:\\Users\\emanu\\Desktop\\PruebaWebApp\\Libreria.Core\\Libreria.Core.csproj"
+            "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj": {
+              "projectPath": "C:\\Users\\emanu\\source\\repos\\PruebaMakers\\Libreria.Core\\Libreria.Core.csproj"
             }
           }
         }
@@ -73,6 +72,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -88,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

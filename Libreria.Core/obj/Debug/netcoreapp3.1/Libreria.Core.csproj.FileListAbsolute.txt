@@ -6,3 +6,12 @@ C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.AssemblyInfo.cs
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.dll
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.deps.json
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\bin\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Core\obj\Debug\netcoreapp3.1\Libreria.Core.pdb

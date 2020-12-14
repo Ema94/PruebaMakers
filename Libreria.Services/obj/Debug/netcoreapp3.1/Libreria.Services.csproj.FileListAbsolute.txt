@@ -9,3 +9,15 @@ C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcorea
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csproj.CopyComplete
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.dll
 C:\Users\jabraham\source\repos\PruebaWebApp\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.deps.json
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Services.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Core.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\bin\Debug\netcoreapp3.1\Libreria.Core.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.csproj.CopyComplete
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Libreria.Services\obj\Debug\netcoreapp3.1\Libreria.Services.pdb

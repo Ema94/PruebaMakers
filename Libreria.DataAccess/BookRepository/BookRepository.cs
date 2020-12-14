@@ -42,7 +42,9 @@ namespace Libreria.DataAccess.BookRepository
                 queryable = queryable.Where(x => x.EditorialId == editorial);
             }
 
-            queryable.Include(x => x.Editorial);
+            queryable = queryable.Include(x => x.Editorial);
+
+            queryable = queryable.OrderByDescending(x=>x.BookId);
 
             return await queryable.ToListAsync();
         }

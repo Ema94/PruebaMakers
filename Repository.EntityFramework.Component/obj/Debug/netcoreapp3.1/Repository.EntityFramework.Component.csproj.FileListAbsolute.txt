@@ -9,3 +9,15 @@ C:\Users\jabraham\source\repos\PruebaWebApp\Repository.EntityFramework.Component
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.csproj.CopyComplete
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.dll
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\bin\Debug\netcoreapp3.1\Repository.EntityFramework.Component.deps.json
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\bin\Debug\netcoreapp3.1\Repository.EntityFramework.Component.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\bin\Debug\netcoreapp3.1\Repository.EntityFramework.Component.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.csproj.CopyComplete
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.EntityFramework.Component\obj\Debug\netcoreapp3.1\Repository.EntityFramework.Component.pdb

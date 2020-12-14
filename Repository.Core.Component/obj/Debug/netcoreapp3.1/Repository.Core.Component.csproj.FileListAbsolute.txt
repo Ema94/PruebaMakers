@@ -6,3 +6,12 @@ C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.AssemblyInfo.cs
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.dll
 C:\Users\jabraham\source\repos\PruebaWebApp\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.deps.json
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\bin\Debug\netcoreapp3.1\Repository.Core.Component.pdb
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.dll
+C:\Users\emanu\Desktop\PruebaMakers-main\Repository.Core.Component\obj\Debug\netcoreapp3.1\Repository.Core.Component.pdb

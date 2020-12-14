@@ -31,10 +31,12 @@ namespace PruebaWebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IBookCurdServices, BookCurdServices>((serviceop)=> { 
-                return BookStoreServicesFactory.CreateCurdServices(Configuration.GetConnectionString("BookStoreConnection")); 
+            services.AddTransient<IBookCurdServices, BookCurdServices>((serviceop) =>
+            {
+                return BookStoreServicesFactory.CreateCurdServices(Configuration.GetConnectionString("BookStoreConnection"));
             });
-            services.AddControllers();
+            services.AddControllers()
+                .AddNewtonsoftJson();
             services.AddAuthentication(ad =>
             {
                 ad.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -62,6 +64,10 @@ namespace PruebaWebApp
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(x => x
+                      .AllowAnyOrigin()
+                      .AllowAnyMethod()
+                      .AllowAnyHeader());
 
             app.UseRouting();
             app.UseAuthentication();
